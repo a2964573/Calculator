@@ -1,6 +1,6 @@
-# Calculator
-### 기초를 다지기 위한 계산기 만들어보기
-###### Creating a Calculator to Build a Foundation
+# Project Calculator
+### 계산기
+###### Calculator
 ---
 ## Introduce
 기초를 다지기 위한 계산기 만들어보기
