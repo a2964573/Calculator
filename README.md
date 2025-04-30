@@ -1,3 +1,17 @@
-# -Study-Calculator HTML/CSS/JAVASCRIPT ê³„ì‚°ê¸° ë§Œë“¤ê¸°.
+# Calculator
+### ±âÃÊ¸¦ ´ÙÁö±â À§ÇÑ °è»ê±â ¸¸µé¾îº¸±â
+###### Creating a Calculator to Build a Foundation
+---
+## Introduce
+±âÃÊ¸¦ ´ÙÁö±â À§ÇÑ °è»ê±â ¸¸µé¾îº¸±â
 
-2022ë…„ 8ì›” 8ì¼ë¶€í„° ì‹œì‘ ~ 2022ë…„ 8ì›” 12ì¼ ì„ì‹œ ì™„ë£Œ
+Window ±âº» °è»ê±â Ç¥ÁØ¸ğµå
+
+###### Creating a Calculator to Build a Foundation
+
+###### Window Default Calculator Standard Mode
+
+## Skill
+* HTML
+* CSS
+* JavaScript
